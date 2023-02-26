@@ -1,1 +1,1 @@
-# house_prices_ml_project
+House Prices - Machine Learning Project
